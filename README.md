@@ -1,6 +1,6 @@
 # Youtube React UI Photo Stock Responsive
 
-watch how to code this step by step on my youtube channel (~UPLOADING ...~)
+watch how to code this step by step on my youtube channel (UPLOADING ...)
 
 designed by Rijal(https://dribbble.com/Syaifulrijalr)
 
